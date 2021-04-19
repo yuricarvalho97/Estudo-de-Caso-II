@@ -12,5 +12,6 @@ Repositório para a atividade de Estudo de Caso II da disciplina de Padrões de 
 
 
 # Modelo da nova solução: 
-![Estudo de Caso II](https://user-images.githubusercontent.com/75703602/115297107-2ff5b280-a132-11eb-9c75-3aeb002aec23.jpeg)
+![Estudo de Caso II](https://user-images.githubusercontent.com/75703602/115298861-67655e80-a134-11eb-8225-3f95f8fc4bfc.jpeg)
+
 
